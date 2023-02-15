@@ -4,8 +4,8 @@ This repository contains code examples for **SageMaker Jumpstart** Generative AI
 ### Module 1: Stable Diffusion with Small Dataset of Cat Images
 This module introduces the concept of Stable Diffusion, a powerful generative modeling technique that allows you to generate high-quality images from small datasets. In this module, we use a dataset of cat images and demonstrate how to finetune a stable diffusion model.
 <div>
-    <img src="cat-1.png" alt="Image 1" width="400" style="display:inline-block">
-    <img src="cat-2.jpng" alt="Image 2" width="400" style="display:inline-block">
+    <img src="./img/cat-1.png" alt="Image 1" width="400" style="display:inline-block">
+    <img src="./img/cat-2.png" alt="Image 2" width="400" style="display:inline-block">
 </div>
 
 
