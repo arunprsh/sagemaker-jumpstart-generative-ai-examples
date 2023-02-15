@@ -3,11 +3,16 @@ This repository contains code examples for **SageMaker Jumpstart** Generative AI
 
 ### Module 1: Stable Diffusion with Small Dataset of Cat Images
 This module introduces the concept of Stable Diffusion, a powerful generative modeling technique that allows you to generate high-quality images from small datasets. In this module, we use a dataset of cat images and demonstrate how to finetune a stable diffusion model.
+<div>
+    <img src="cat-1.png" alt="Image 1" width="400" style="display:inline-block">
+    <img src="cat-2.jpng" alt="Image 2" width="400" style="display:inline-block">
+</div>
+
 
 ### Module 2: Stable Diffusion with Large Dataset of Pokemon Images
 In this module, we show how Stable Diffusion can be used to generate high-quality images from large datasets. Here, we use a dataset of Pokemon images to demonstrate how to fine-tune the model to generate new, realistic-looking Pokemon.
 
-### Module 3: Alexa TM In-Context Learning
+### Module 3: Alexa TM In-Context Learning via Prompt Engineering
 This module explores N-shot learning via in-context learning and demonstrates how to use AlexaTM Large Language Model (LLM) to perform natural language understanding (NLU) tasks using zero, one, and few-shot learning. In this module, you will learn how to leverage AlexaTM LLM to improve the performance of virtual assistants by personalizing their responses to users.
 
 ### Usage
