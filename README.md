@@ -33,15 +33,16 @@ In this module, we show how Stable Diffusion can be used to generate high-qualit
 ### Module 3: Alexa TM In-Context Learning via Prompt Engineering
 This module explores N-shot learning via in-context learning and demonstrates how to use AlexaTM Large Language Model (LLM) to perform natural language understanding (NLU) tasks using zero, one, and few-shot learning. In this module, you will learn how to leverage AlexaTM LLM to improve the performance of virtual assistants by personalizing their responses to users.
 
-<div>
-    <img src="./img/alexa-tm.png" alt="alexatm" width="400" style="display:inline-block">
+<div style="text-align:center">
+    <img src="./img/alexa-tm.png" alt="alexatm" width="600" style="display:inline-block">
 </div>
+
 
 ### Module 4: FLAN-T5-XL In-Context Learning via Prompt Engineering
 This module focuses on utilizing the FLAN-T5-XL Large Language Model (LLM) to achieve N-shot learning via in-context learning. This involves leveraging the model's natural language understanding (NLU) capabilities to personalize virtual assistant responses and improve their performance for users.
 
-<div>
-    <img src="./img/flan-t5.png" alt="flan-t5" width="400" style="display:inline-block">
+<div style="text-align:center">
+    <img src="./img/flan-t5.png" alt="flan-t5" width="600" style="display:inline-block">
 </div>
 
 In this module, you will learn step-by-step how to perform NLU tasks using FLAN-T5-XL. Specifically, you will learn how to read and understand multi-turn customer support chat transcripts, and engineer prompts that enable FLAN-T5-XL to learn in-context and improve its performance in N-shot learning. This will enhance the model's ability to infer context and answer questions derived from the chat transcripts.
