@@ -7,7 +7,7 @@ The first notebook, `01-txt2img-gen.ipynb`, demonstrates how to easily create a 
     <img src="./../img/cat-3.png" alt="Image 3" width="400" style="display:inline-block">
     <img src="./../img/cat-4.png" alt="Image 4" width="400" style="display:inline-block">
 </div>
-
+<br>
 The second notebook, `02-finetune.ipynb`, showcases the process of fine-tuning the Stable Diffusion model with a small set of images. This approach involves using images of cats from specific breeds or your own pet cats to teach the model how to recreate these images and incorporate them into various creative scenarios. This technique can be adapted to work with any set of images containing fewer than ten examples, such as images of pet dogs or other entities.
 
 By following the steps outlined in the notebook, you can collect a few images of your chosen entity from Google Images and utilize the fine-tuning process to train the Stable Diffusion model to create new and unique compositions. This approach offers a broad range of creative possibilities, allowing you to experiment with various scenarios and unleash your imagination.
