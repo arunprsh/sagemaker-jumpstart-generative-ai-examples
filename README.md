@@ -64,7 +64,7 @@ Overall, this module provides an excellent opportunity to explore the capabiliti
 In this module, you will learn how to perform short and long-form abstractive text summarization and question answering for legal documents. This module demonstrates a streamlined pipeline that combines three NLP tasks - abstractive text summarization, question generation, and answer generation via abstractive question answering. All of these tasks are accomplished using a single foundation model in a zero-shot setting with prompt engineering.
 
 <div style="text-align:center">
-    <img src="./img/legal_summ.png" alt="legal" width="600" style="display:inline-block">
+    <img src="./img/legal-summ.png" alt="legal" width="600" style="display:inline-block">
 </div>
 
 This approach is common in various industries where traditionally, one might need to create multiple language models that are task-specific. In contrast, this module showcases how large language models can simplify the process of solving multiple tasks in a multi-task and zero-shot setting without providing any examples to the model or fine-tuning the model.
