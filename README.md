@@ -59,5 +59,16 @@ In this module, you will learn step-by-step how to perform NLU tasks using Coher
 
 Overall, this module provides an excellent opportunity to explore the capabilities of Cohere Medium in solving NLU tasks, such as text summarization, abstractive question answering, named entity recognition, and other related tasks through the lens of in-context learning for the benefit of the user.
 
+### Module 6: Legal Document Summarization and Question Answering
+
+In this module, you will learn how to perform short and long-form abstractive text summarization and question answering for legal documents. This module demonstrates a streamlined pipeline that combines three NLP tasks - abstractive text summarization, question generation, and answer generation via abstractive question answering. All of these tasks are accomplished using a single foundation model in a zero-shot setting with prompt engineering.
+
+<div style="text-align:center">
+    <img src="./img/legal_summ.png" alt="legal" width="600" style="display:inline-block">
+</div>
+
+This approach is common in various industries where traditionally, one might need to create multiple language models that are task-specific. In contrast, this module showcases how large language models can simplify the process of solving multiple tasks in a multi-task and zero-shot setting without providing any examples to the model or fine-tuning the model.
+
+
 ### Usage
 Each module has its own subdirectory containing code examples and instructions for use. Simply navigate to the module you are interested in and follow the instructions in the README file.
